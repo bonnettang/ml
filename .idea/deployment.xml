@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="ml">
+  <component name="PublishConfigData" serverName="ml" uploadOnCheckin="277e22a8-85c9-4ce2-ac77-807562b4e43a">
     <serverData>
       <paths name="Copy of project-level server 'ml'">
         <serverdata>
@@ -24,5 +24,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="ml" />
   </component>
 </project>
